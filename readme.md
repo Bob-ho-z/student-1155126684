@@ -1,6 +1,6 @@
-#CSCI3251 Github Project
+# CSCI3251 Github Project
 
-##Self Intro
+## Self Intro
 
 Name: H. T. TSE
 

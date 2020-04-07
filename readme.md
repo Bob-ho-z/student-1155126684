@@ -24,7 +24,7 @@ Sleep early | No
 Things to do:
 - [x] use task list
 - [x] use table
-- [x] use all required __styling elements__
+- [x] use all required *styling elements*
 
 anything extra
 

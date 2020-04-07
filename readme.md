@@ -27,3 +27,7 @@ Things to do:
 - [x] use all required __styling elements__
 
 anything extra
+
+## Screenshot
+![Link of Screenshot]
+(https://github.com/csci3251-2020/student-1155126684/blob/master/Project%20Milestone%202%20Screenshot.png)
